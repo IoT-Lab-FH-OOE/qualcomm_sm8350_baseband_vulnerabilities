@@ -1,0 +1,3 @@
+theme: jekyll-theme-slate
+title: Transient Denial of Service Vulnerabilities in Qualcomm Snapdragon 888 (SM8350)'s 5G Baseband
+description: Multiple transient denial of service (DoS) vulnerabilities can be triggered in Qualcomm Snapdragon 888 (SM8350)'s 5G baseband (Snapdragon X60 5G modem) using unauthenticated downlink radio resource control (RRC) setup messages without requiring user interaction.
